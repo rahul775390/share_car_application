@@ -1,0 +1,14 @@
+com\carsharing\service\RideServiceTest$FakeRideBookingDAO.class
+com\carsharing\service\RideServiceTest$FakeVehicleDAO.class
+com\carsharing\service\UserServiceTest$1.class
+com\carsharing\service\VehicleServiceTest.class
+com\carsharing\service\VehicleServiceTest$1.class
+com\carsharing\service\RentalServiceTest$1.class
+com\carsharing\service\RideServiceTest$FakeConnection.class
+com\carsharing\service\VehicleServiceTest$FakeVehicleDAO.class
+com\carsharing\service\RideServiceTest$FakeRideDAO.class
+com\carsharing\util\PasswordHasherTest.class
+com\carsharing\service\UserServiceTest$FakeUserDAO.class
+com\carsharing\service\RideServiceTest.class
+com\carsharing\service\UserServiceTest.class
+com\carsharing\service\RideServiceTest$1.class

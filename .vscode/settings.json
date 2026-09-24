@@ -1,0 +1,10 @@
+{
+    "java.jdt.ls.java.home": "C:\\Program Files\\BellSoft\\LibericaJDK-8-Full",
+    "maven.executable.path": "C:\\Users\\rahul\\Downloads\\apache-maven-3.9.16-bin\\apache-maven-3.9.16\\bin\\mvn.cmd",
+    "maven.terminal.customEnv": [
+        {
+            "environmentVariable": "JAVA_HOME",
+            "value": "C:\\Program Files\\BellSoft\\LibericaJDK-8-Full"
+        }
+    ]
+}
